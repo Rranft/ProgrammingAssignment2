@@ -1,4 +1,4 @@
-## These are two functions that creates an object that stores 
+## Below are two functions that creates an object that stores 
 ## a matrix and cache's its inverse.
 
 ## First function: Creates a matrix and is able to cache its inverse.
